@@ -1,6 +1,22 @@
 # 💫 About Me:
-## 👋 Hi, I'm Athar Fathana Rakasyah<br><br>🎓 A recent CS grad who enjoys playing with data — and occasionally makes your data do cool tricks (JK… sort of.)<br><br>🔍 My interests lie at the intersection of **Machine Learning**, **Artificial Intelligence**, **Data Science**, and data-driven decision making. I'm especially drawn to projects in **Computer Vision**, **Natural Language Processing (NLP)**, and those that combine **finance** with ML/AI techniques.<br><br>---<br><br>### 🛠️ Tech Stack<br><br>**Languages:** Python, SQL, C++, Java, JavaScript, HTML, CSS  <br>**Libraries & Frameworks:** Django, Pandas, NumPy, scikit-learn, TensorFlow, OpenCV, Seaborn, yfinance, Matplotlib  <br>**Tools:** Excel, Google Colab, Jupyter Notebook, Streamlit, VS Code, Git  <br>**Databases:** MySQL<br><br>---<br><br>### 🚀 Notable Projects<br><br>- **📈 Stock Price Forecasting with LSTM + Dashboard** – Built a deep learning model using yFinance & LSTM, visualized via Streamlit  <br>- **🧠 Face Recognition Attendance System** – Real-time face detection using webcam and Django, retro-style UI  <br>- **🗃️ RAG-based LangChain Chatbot** – Custom retrieval-augmented chatbot using LangChain + OpenAI  <br>- **📰 Financial News Sentiment Analysis** – Scraped, cleaned, and analyzed sentiment data to correlate with stock price movements  <br>- **🧬 AI for Healthcare** – Glaucoma detection from retinal fundus images using hybrid ML/DL architecture  <br>- **👥 Customer Segmentation + Recommender System** – Applied clustering and collaborative filtering on customer datasets<br><br>🧠 Currently training my neural networks and myself — both still overfitting.<br>
+## 👋 Hi, I'm Athar Fathana Rakasyah<br><br>
 
+🎓 A recent CS grad who enjoys playing with data — and occasionally makes your data do cool tricks (JK… sort of.)
+
+🔍 My interests lie at the intersection of **Machine Learning**, **Artificial Intelligence**, **Data Science**, and data-driven decision making. I'm especially drawn to projects in **Computer Vision**, **Natural Language Processing (NLP)**, and those that combine **finance** with ML/AI techniques.
+<br>
+
+### 🚀 Notable Projects
+- **📈 Stock Price Forecasting with LSTM + Dashboard**
+– Built a deep learning model using yFinance & LSTM, visualized via Streamlit
+- **🧠 Face Recognition Attendance System** – Real-time face detection using webcam and Django, retro-style UI
+- **🗃️ RAG-based LangChain Chatbot** – Custom retrieval-augmented chatbot using LangChain + OpenAI
+- **📰 Financial News Sentiment Analysis** – Scraped, cleaned, and analyzed sentiment data to correlate with stock price movements
+- **🧬 AI for Healthcare** – Glaucoma detection from retinal fundus images using hybrid ML/DL architecture
+- **👥 Customer Segmentation + Recommender System** – Applied clustering and collaborative filtering on customer datasets
+<br>
+🧠 Currently training my neural networks and myself — both still overfitting.
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/athrftna/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/athar-fathana-rakasyah-38864a25a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharfathana19052003@gmail.com) 
